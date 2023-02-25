@@ -25,7 +25,7 @@ Instead of COM31 write down the port that Xiao is connected to
 
 2. Remove the USB-C cable and connect the Xiao with USB to Serial adapter as shown on the picture
 
-![Connecting XiaoESP32C3 to UART0](images/pins-3.png)
+![Connecting XiaoESP32C3 to UART0]Images/pins-3.png)
 
 You can power the board either by connecting the USB to Serial adapter's 5V pin to 5V pin of the Xiao or by external power supply connected to USB-C
 
